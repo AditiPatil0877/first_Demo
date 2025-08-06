@@ -47,3 +47,5 @@ print(list.count(50))
 print(list1[1:7])
 #[50, 10, 'Hello', 'Aditi', 99, 55]
 
+#list Opreation
+
